@@ -54,8 +54,8 @@ TEM FAMILIARIDADE
 - PAGAMENTO DE MENSALIDADE PELO APP
 
 #### PITCH APRESENTAÇÃO
-- VÍDEO PARA YOTUBE
-- SLIDES
+- VÍDEO PARA YOTUBE 
+- [SLIDES](https://docs.google.com/presentation/d/1zyyD6fEi3_sK5fPhCNrQmUoVL3VfdHmJ6G2mbTbKnwU/edit#slide=id.p)
 - IMAGENS
 - TEXTOS
 
