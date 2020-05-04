@@ -60,3 +60,4 @@ TEM FAMILIARIDADE
 - TEXTOS
 
 Jonatan Machado
+Yuzo Santana Okamoto
