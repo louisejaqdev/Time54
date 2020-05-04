@@ -59,5 +59,8 @@ TEM FAMILIARIDADE
 - IMAGENS
 - TEXTOS
 
-Jonatan Machado
-Yuzo Santana Okamoto
+#### [Jonatan Machado](https://github.com/joninter)
+#### [Yuzo Santana Okamoto](https://github.com/yuzokamoto)
+#### [Paulo Machado Aguiar](https://github.com/Paulopma)
+#### [Victor Gutierrez](https://github.com/v-gutierrez)
+#### [Jaqueline Louise](https://github.com/louisejaqdev) 
