@@ -1,9 +1,9 @@
-### Time54
+### TIME54
 #### Mega Hack Segunda Edição 
 
 ### DESAFIO SEBRAE 
 
-### Academia em casa   
+### [ACADEMIA EM CASA FIT54](https://previewer.adalo.com/4505577f-cc94-43c3-8845-eddf71a463bd) 
 
 
 #### ANÁLISE DESENVOLVIMENTO E ESTRATÉGIA DE SOLUÇÃO
@@ -39,7 +39,7 @@ TRABALHA E ESTUDA
 TEM FAMILIARIDADE
 
 
-#### PROTÓTIPO DO APLICATIVO
+#### PROTÓTIPO DO APLICATIVO [FIT54](https://previewer.adalo.com/4505577f-cc94-43c3-8845-eddf71a463bd)
 
 - [x] LOGIN CLIENTE 
 - [x] CADASTRO ATIVIDADES/AULAS/PROFISSIONAIS DA ACADEMIA
@@ -59,10 +59,17 @@ TEM FAMILIARIDADE
 - IMAGENS
 - TEXTOS
 
-TIME54
+#### TIME54
 
 ##### [Jonatan Machado](https://github.com/joninter)
 ##### [Yuzo Santana Okamoto](https://github.com/yuzokamoto)
 ##### [Paulo Machado Aguiar](https://github.com/Paulopma)
 ##### [Victor Gutierrez](https://github.com/v-gutierrez)
 ##### [Jaqueline Louise](https://github.com/louisejaqdev) 
+
+##### AGRADECIMENTOS
+
+###### [SHAWEE](https://shawee.io/cases.html)
+###### [SEBRAE](https://www.sebrae.com.br/sites/PortalSebrae)
+###### [LABENU](https://www.labenu.com.br/)
+ 
